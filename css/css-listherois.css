@@ -61,3 +61,26 @@
     background-size: cover;
     z-index: -999;
 }
+.form-inline .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+    width: 1000px;
+    padding-left: 50px;
+}
+.search-edit{
+    position: absolute;
+    margin-left: 20px;
+    color: #a7a1a1;
+}
+.fa-plus-circle{
+    color: white;
+    position: absolute;
+    margin-left: 1020px;
+}
+.btn{
+    color: white;
+    font-size: 13px;
+    width: 100px;
+    background-color: #6499f6;
+}
