@@ -16,7 +16,7 @@
 }
 .margin-span{
     margin-left: 76%;
-    color: #6161f1c4;
+    color: #0f64ff96;
     font-size: 13px;
 }
 .font-icon{
@@ -26,4 +26,38 @@
 .font-icon2{
     font-size: 15px;
     color: #d6d3d3;
+}
+.bg-divisao{
+    background-color: #0f64ff96;
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+}
+.font-menu-div{
+    font-size: 15px;
+    color: white;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.back-fundo{
+    background-color: #e8e5e5;
+    background-repeat: no-repeat;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    margin-top: 90px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    z-index: -999;
 }
