@@ -85,3 +85,19 @@
     background-color: #6499f6;
     border-color: transparent;
 }
+
+.font-color-inf-herois{
+    font-size: 13px;
+    color: #a7a1a1;
+    padding: 0px;
+}
+.margin-inf-herois{
+    margin-top: 30px;
+}
+.fa-sort{
+    font-size: 11px;
+    color: #a7a1a1;
+}
+.margin-inf-herois-espace{
+    padding: 25px;
+}
