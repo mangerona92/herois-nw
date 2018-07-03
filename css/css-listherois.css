@@ -15,7 +15,8 @@
     padding-left: 25px;
 }
 .margin-span{
-    margin-left: 77%;
+    position: fixed;
+    margin-left: 85%;
     color: #0f64ff96;
     font-size: 13px;
 }
