@@ -15,7 +15,7 @@
     padding-left: 25px;
 }
 .margin-span{
-    margin-left: 76%;
+    margin-left: 77%;
     color: #0f64ff96;
     font-size: 13px;
 }
@@ -87,17 +87,30 @@
 }
 
 .font-color-inf-herois{
-    font-size: 13px;
+    font-size: 11px;
     color: #a7a1a1;
-    padding: 0px;
 }
 .margin-inf-herois{
     margin-top: 30px;
 }
 .fa-sort{
     font-size: 11px;
-    color: #a7a1a1;
+    color: #a7a1a1;   
 }
-.margin-inf-herois-espace{
-    padding: 25px;
+.table thead th{
+    border: none;
+}
+.fa-trash-o{
+    font-size: 22px;
+    color: #6499f6;
+}
+.fa-pencil-square-o{
+    font-size: 22px;
+    color: #6499f6;
+}
+.background-inf-heoris{
+    background-color: white;
+    line-height:50px;  
+    height: 70px;
+    border-radius: 5px;
 }
