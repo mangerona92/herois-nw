@@ -114,3 +114,19 @@
     height: 70px;
     border-radius: 5px;
 }
+.aling-text{
+    text-align: left;
+    font-size: 14px;
+    color: #a7a1a1
+}
+.form-control{
+    color: #a7a1a1;
+}
+.aling-form-register{
+    margin-left: 20px;
+}
+.background-form{
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+}
