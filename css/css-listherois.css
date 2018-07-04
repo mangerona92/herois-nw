@@ -17,7 +17,7 @@
 .margin-span{
     position: fixed;
     margin-left: 85%;
-    color: #0f64ff96;
+    color: #4687e0;
     font-size: 13px;
 }
 .font-icon{
@@ -29,7 +29,7 @@
     color: #d6d3d3;
 }
 .bg-divisao{
-    background-color: #0f64ff96;
+    background-color: #4687e0;
     width: 100%;
     height: 40px;
     margin-top: 10px;
@@ -83,7 +83,7 @@
     color: white;
     font-size: 13px;
     width: 100px;
-    background-color: #6499f6;
+    background-color: #4687e0;
     border-color: transparent;
 }
 
@@ -103,11 +103,11 @@
 }
 .fa-trash-o{
     font-size: 22px;
-    color: #6499f6;
+    color: #4687e0;
 }
 .fa-pencil-square-o{
     font-size: 22px;
-    color: #6499f6;
+    color: #4687e0;
 }
 .background-inf-heoris{
     background-color: white;
