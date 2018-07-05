@@ -129,5 +129,38 @@
 .background-form{
     background-color: white;
     border-radius: 5px;
+    padding: 25px;
+}
+.background-cards-galeria{
+    background-color: white;
+    border-radius: 5px;
     padding: 20px;
+    margin-top: 40px;
+}
+.text-galeria{
+    text-align: left;
+    color: #4687e0;
+}
+.cards-galeria{
+    float: left;
+	background: #f5f7fa;
+	border-radius: 4px;
+	width: 125px;
+    height: 125px;
+    margin-top: 25px;
+}
+.margin-left-cards-galeria{
+    margin-left: 20px;
+}
+.background-drop-here{
+    width: 1148px;
+    height: 150px;
+    border: 1px dotted #dde0e4;
+    border-radius: 5px;
+    margin-top: 200px;
+    vertical-align: middle;
+}
+.text-in-drop-here{
+    font-size: 13px;
+    color: #dde0e4;
 }
