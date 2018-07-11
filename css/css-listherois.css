@@ -1,22 +1,20 @@
 .navbar{
     background-color: transparent !important;
+    margin-left: -20px;
 }
 .bg-logo{
     background-color: #eae6e6;
     width: 150px;
 }
-.bg-light{
-    color: red;
-
-}
 .navbar-brand{
-    color:rgba(134, 126, 126, 0.9) !important;
+    color:rgba(134, 126, 126, 0.9);
     font-size: 13px; 
     padding-left: 25px;
+    margin-left: 50px;
 }
 .margin-span{
     position: fixed;
-    margin-left: 85%;
+    margin-left: 93%;
     color: #4687e0;
     font-size: 13px;
 }
@@ -37,7 +35,7 @@
 .font-menu-div{
     font-size: 15px;
     color: white;
-    padding-left: 100px;
+    padding-left: 46px;
     padding-top: 10px;
 }
 .back-fundo{
@@ -64,9 +62,8 @@
 }
 .form-inline .form-control {
     display: inline-block;
-    width: auto;
     vertical-align: middle;
-    width: 1000px;
+    width: 1070px;
     padding-left: 50px;
 }
 .search-edit{
@@ -76,15 +73,24 @@
 }
 .fa-plus-circle{
     color: white;
-    position: absolute;
-    margin-left: 1020px;
+}
+.fa-user-circle-o{
+    font-size: 30px;
+    color: #a7a1a1;
+}
+.fa-user{
+    font-size: 20px;
+    color: #a7a1a1;
 }
 .btn{
     color: white;
     font-size: 13px;
     width: 100px;
+    height: 36px;
     background-color: #4687e0;
     border-color: transparent;
+    position: fixed;
+    margin-left: 85%;
 }
 
 .font-color-inf-herois{
