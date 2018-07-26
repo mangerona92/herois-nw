@@ -1,0 +1,26 @@
+{
+  "name": "herois-nw",
+  "version": "1.0.0",
+  "description": "> Repositório para estudos de front-end nativo.",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Teste de startt\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "criar_sass": "echo 'ahuahua'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangerona92/herois-nw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mangerona92/herois-nw/issues"
+  },
+  "homepage": "https://github.com/mangerona92/herois-nw#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
